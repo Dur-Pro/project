@@ -33,6 +33,7 @@ addon | version | maintainers | summary
 [project_parent_task_filter](project_parent_task_filter/) | 15.0.1.1.0 |  | Add a filter to show the parent tasks
 [project_purchase_analytic_global](project_purchase_analytic_global/) | 15.0.1.0.1 | [![yankinmax](https://github.com/yankinmax.png?size=30px)](https://github.com/yankinmax) | Project - Create Purchase Orders with Analytic Account
 [project_role](project_role/) | 15.0.1.0.2 | [![alexey-pelykh](https://github.com/alexey-pelykh.png?size=30px)](https://github.com/alexey-pelykh) | Project role-based roster
+[project_sale_order_link](project_sale_order_link/) | 15.0.1.0.1 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Sales order linked to project, tasks or employee map
 [project_sequence](project_sequence/) | 15.0.0.2.2 | [![yajo](https://github.com/yajo.png?size=30px)](https://github.com/yajo) [![anddago78](https://github.com/anddago78.png?size=30px)](https://github.com/anddago78) | Add a sequence field to projects, filled automatically
 [project_stage_mgmt](project_stage_mgmt/) | 15.0.1.0.0 | [![DavidJForgeFlow](https://github.com/DavidJForgeFlow.png?size=30px)](https://github.com/DavidJForgeFlow) | Allows to assign and create task stages on project creation wizard
 [project_status](project_status/) | 15.0.1.0.0 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) | Project Status
@@ -46,6 +47,7 @@ addon | version | maintainers | summary
 [project_task_description_template](project_task_description_template/) | 15.0.1.0.0 |  | Add a description template to project tasks
 [project_task_material](project_task_material/) | 15.0.1.0.0 |  | Record products spent in a Task
 [project_task_milestone](project_task_milestone/) | 15.0.1.0.0 | [![mantux11](https://github.com/mantux11.png?size=30px)](https://github.com/mantux11) | Project Task Milestones
+[project_task_note](project_task_note/) | 15.0.1.0.0 | [![carolina-fernandez](https://github.com/carolina-fernandez.png?size=30px)](https://github.com/carolina-fernandez) | Add notes in project tasks
 [project_task_personal_stage_auto_fold](project_task_personal_stage_auto_fold/) | 15.0.1.0.3 |  | Moves task to the first fold personal stage when done
 [project_task_pull_request](project_task_pull_request/) | 15.0.1.0.1 |  | Adds a field for a PR URI to project tasks
 [project_task_stage_state](project_task_stage_state/) | 15.0.1.0.1 |  | Restore State attribute removed from Project Stages in 8.0
@@ -55,7 +57,8 @@ addon | version | maintainers | summary
 [project_timeline_hr_timesheet](project_timeline_hr_timesheet/) | 15.0.1.0.0 |  | Shows the progress of tasks on the timeline view.
 [project_timesheet_time_control](project_timesheet_time_control/) | 15.0.1.1.1 | [![ernestotejeda](https://github.com/ernestotejeda.png?size=30px)](https://github.com/ernestotejeda) | Project timesheet time control
 [project_type](project_type/) | 15.0.1.0.1 |  | Project Types
-[project_wbs](project_wbs/) | 15.0.1.0.0 |  | Apply Work Breakdown Structure
+[project_wbs](project_wbs/) | 15.0.1.1.1 |  | Apply Work Breakdown Structure
+[sale_project_copy_tasks](sale_project_copy_tasks/) | 15.0.1.0.1 | [![shide](https://github.com/shide.png?size=30px)](https://github.com/shide) [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Copy tasks into sale order's project
 
 [//]: # (end addons)
 
