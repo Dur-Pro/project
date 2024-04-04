@@ -47,10 +47,10 @@
                     style="margin-left: 10px;"
                 >
                         <a
-                            name="action_subtask"
-                            style="font-weight:bold;color:green"
-                            type="object"
-                        >
+                        name="action_subtask"
+                        style="font-weight:bold;color:green"
+                        type="object"
+                    >
                             <span class="fa fa-angle-double-right fa-lg" />
                             <span>
                                 <field name="subtask_count" />
