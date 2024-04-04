@@ -12,5 +12,4 @@
     "depends": ["project"],
     "data": ["views/project_task.xml"],
     "installable": True,
-    "post_init_hook": "_add_task_display_project",
 }
