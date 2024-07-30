@@ -26,6 +26,7 @@ addon | version | maintainers | summary
 [project_duplicate_subtask](project_duplicate_subtask/) | 15.0.1.0.0 |  | The module adds an action to duplicate tasks with the child subtasks
 [project_forecast_line](project_forecast_line/) | 15.0.1.3.3 |  | Project Forecast Lines
 [project_forecast_line_bokeh_chart](project_forecast_line_bokeh_chart/) | 15.0.1.0.2 |  | Project Forecast Lines Bokeh Chart
+[project_forecast_line_deadline](project_forecast_line_deadline/) | 15.0.1.0.0 | [![ntsirintanis](https://github.com/ntsirintanis.png?size=30px)](https://github.com/ntsirintanis) | Project Forecast end date based on deadline of task.
 [project_forecast_line_holidays_public](project_forecast_line_holidays_public/) | 15.0.1.1.0 |  | Project Forecast Lines taking public holidays into account
 [project_hr](project_hr/) | 15.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Link HR with project
 [project_list](project_list/) | 15.0.2.0.0 |  | Projects list view
@@ -41,7 +42,7 @@ addon | version | maintainers | summary
 [project_stock_product_set](project_stock_product_set/) | 15.0.1.0.2 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Stock Product Set
 [project_stock_request](project_stock_request/) | 15.0.1.0.0 |  | Create stock requests from a projects and project tasks
 [project_task_add_very_high](project_task_add_very_high/) | 15.0.1.0.0 | [![astirpe](https://github.com/astirpe.png?size=30px)](https://github.com/astirpe) | Adds extra options 'High' and 'Very High' on tasks
-[project_task_code](project_task_code/) | 15.0.1.0.4 |  | Sequential Code for Tasks
+[project_task_code](project_task_code/) | 15.0.1.0.5 | [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Sequential Code for Tasks
 [project_task_default_stage](project_task_default_stage/) | 15.0.1.0.1 |  | Recovery default task stages for projects from v8
 [project_task_dependency](project_task_dependency/) | 15.0.1.0.0 | [![astirpe](https://github.com/astirpe.png?size=30px)](https://github.com/astirpe) | Enables to define dependencies (other tasks) of a task
 [project_task_description_template](project_task_description_template/) | 15.0.1.0.0 |  | Add a description template to project tasks
@@ -57,7 +58,7 @@ addon | version | maintainers | summary
 [project_timeline_hr_timesheet](project_timeline_hr_timesheet/) | 15.0.1.0.0 |  | Shows the progress of tasks on the timeline view.
 [project_timesheet_time_control](project_timesheet_time_control/) | 15.0.1.1.1 | [![ernestotejeda](https://github.com/ernestotejeda.png?size=30px)](https://github.com/ernestotejeda) | Project timesheet time control
 [project_type](project_type/) | 15.0.1.0.1 |  | Project Types
-[project_wbs](project_wbs/) | 15.0.1.1.1 |  | Apply Work Breakdown Structure
+[project_wbs](project_wbs/) | 15.0.1.1.4 |  | Apply Work Breakdown Structure
 [sale_project_copy_tasks](sale_project_copy_tasks/) | 15.0.1.0.1 | [![shide](https://github.com/shide.png?size=30px)](https://github.com/shide) [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Copy tasks into sale order's project
 
 [//]: # (end addons)
